@@ -61,4 +61,4 @@ Software Keyloggers
 
 * Use multi-factor authentication (MFA).
 
-Employ endpoint security solutions in corporate environments.
+* Employ endpoint security solutions in corporate environments.
