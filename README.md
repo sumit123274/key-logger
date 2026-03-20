@@ -1,4 +1,4 @@
-📝** Report on Keyloggers**
+                                                                   **📝** Report on Keyloggers****
 
 **1. Introduction**
 Keyloggers, short for keystroke loggers, are surveillance tools that record every keystroke made on a keyboard. While they can have limited legitimate uses (such as parental monitoring or authorized employee activity tracking), they are most commonly associated with malicious intent, including identity theft, financial fraud, and corporate espionage.
